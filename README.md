@@ -111,7 +111,7 @@ The website is fully responsive with Bootstrap's breakpoint system:
 ## 🌟 Features to Add
 
 Future enhancements you could implement:
-- [✅] Login/Register functionality
+- [ ] Login/Register functionality
 - [ ] Account dashboard
 - [ ] Transaction history
 - [ ] Mobile banking app links
